@@ -1,5 +1,3 @@
-tool,step,request,result
-Claude Code (Anthropic),1,"Read the MP1 README.md and summarize the assignment requirements","Summarized all 16 required features, grading weights, the four hard rules, and the submission/LLM-usage policy."
-Claude Code (Anthropic),2,"Add an author credit line to the site","Added a meta author tag plus a visible footer credit line, styled as a secondary line under the copyright text."
-Claude Code (Anthropic),3,"Diagnose a GitHub Actions deploy-pages failure","Identified it as a one-time repo setting (Pages Source must be set to GitHub Actions) that had not been configured, and gave the steps to fix it."
-Claude Code (Anthropic),4,"Improve the fixed-background-image section, which was not visually convincing","Replaced the background art with higher-contrast SVG graphics, reduced the dark overlay opacity, and increased the showcase section height so the parallax effect is clearly visible when scrolling."
+tool,log_link
+Claude,https://claude.ai/share/dd395176-d0bd-4193-9212-304efaf9282b
+Claude,https://claude.ai/share/aaa80dc8-d40d-434c-b577-c156accb21e5
